@@ -13,6 +13,9 @@
         android:theme="@style/Theme.FigmaMedicApplication"
         tools:targetApi="31">
         <activity
+            android:name=".Onboard3"
+            android:exported="false" />
+        <activity
             android:name=".Onboard2"
             android:exported="false" />
         <activity
